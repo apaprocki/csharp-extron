@@ -1,0 +1,8 @@
+C# Extron A/V Switcher Control Class
+
+Provides a clean interface to all Extron switcher gear supporting the same
+protocol as the SW-6AV and SW-12AV switchers.  Most of this class was
+developed against the serial protocol specification in section 4 of the
+SW-AV series user manual.
+
+Licensed under the MIT license.
